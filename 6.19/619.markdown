@@ -1,0 +1,18 @@
+# 邱岳-产品导师
+
+## 用谁的方法解决谁的问题
+
+**采购决策链上可能没有使用者**
+
+- 平台价值
+- 相互竞争
+
+# Markdown
+
+'# ``` \*
+
+```javascript
+$(document).ready(function () {
+  alert("RUNOOB");
+});
+```
