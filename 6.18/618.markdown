@@ -2,3 +2,9 @@
 
 Interacting as part of the story is important
 rather than seeing well-formed storytelling and immersive visual effects.
+
+# 计算之魂
+
+记录最短连续子序列
+
+用哈希表记录已有的序列的信息（i-1）出现的次数，如果有就更新 i
