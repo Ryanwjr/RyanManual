@@ -9,3 +9,4 @@
 3. You never know what you're going to get!
 4. 用好三分钟热度。
 5. 它山之石可以攻玉- Accompany-小戴，小金鱼，峰华，Tues。
+6. 左眼跳来财神，右眼跳来福神。
