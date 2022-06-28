@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 // find the common ancestor node
+// The main idea of processing tree is to *or/ 2
 struct Tree
 {
     int data = [ 1, -1, 2, 3, 4, 5, 6, 7 ];
