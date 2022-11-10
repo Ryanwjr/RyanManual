@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c76fa62-90e0-480b-bbe9-25d50cfdba73" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/reduceDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c76fa62-90e0-480b-bbe9-25d50cfdba73" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667962542262</updated>
       <workItem from="1667962547960" duration="180000" />
-      <workItem from="1667962831631" duration="175000" />
+      <workItem from="1667962831631" duration="197000" />
     </task>
     <servers />
   </component>
